@@ -1,5 +1,5 @@
 {
-    "name": "morgonus/docker-api-php-client",
+    "name": "shela/docker-api-php-client",
     "license": "MIT",
     "type": "library",
     "description": "A Docker PHP client",
